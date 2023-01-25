@@ -1,0 +1,36 @@
+{
+  "competences": [
+    {
+      "id": 1,
+      "titre": "Java",
+      "description": "Lorem ipsum"
+    },
+    {
+      "id": 2,
+      "titre": "Spring",
+      "description": "Lorem ipsum"
+    },
+    {
+      "id": 1674662750564,
+      "titre": "a",
+      "description": "a"
+    },
+    {
+      "id": 1674663699375,
+      "titre": "zezae",
+      "description": "azeae"
+    }
+  ],
+  "niveauCompetence": [
+    {
+      "id": 1,
+      "competences": "Java",
+      "niveau": "Débutant"
+    },
+    {
+      "id": 2,
+      "competences": "Spring",
+      "niveau": "Intermédiaire"
+    }
+  ]
+}
